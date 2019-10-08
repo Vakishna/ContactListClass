@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1570530774 source:c:\users\vakishnat\documents\dev\helloworld\main.cpp
+	<string>
+	<algorithm>
+	"Hello.h"
+	"Contact.h"
+
+1570530029 c:\users\vakishnat\documents\dev\helloworld\hello.h
+
+1570530257 c:\users\vakishnat\documents\dev\helloworld\contact.h
+	<iostream>
+
+1570530313 source:c:\users\vakishnat\documents\dev\helloworld\contact.cpp
+	"Contact.h"
+
